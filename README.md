@@ -46,3 +46,9 @@ This application was designed so that any employee could login to their employee
     Employees can enter amount, not exceeding $1000.00, for their reiumbursement requests
     Employees can delete their reiumbursement requests if needed.
 Employees can then log out and return to the main page.
+
+## Contributers
+- Daniel Kuczynski
+- Lesley Rich
+- Alemayehu(Alex)
+- Jeny 
